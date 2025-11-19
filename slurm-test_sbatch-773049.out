@@ -1,0 +1,4 @@
+PyTorch version: 1.12.1+cu116
+CUDA available: True
+CUDA version (runtime): 11.6
+Device name: NVIDIA A100 80GB PCIe
